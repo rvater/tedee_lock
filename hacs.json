@@ -1,0 +1,6 @@
+{
+    "name": "Tedee Lock Integration for Home Assistant",
+    "iot_class": "Cloud Polling",
+    "domains": ["cover", "lock", "tedee"],
+    "homeassistant": "0.115.0"
+  }
